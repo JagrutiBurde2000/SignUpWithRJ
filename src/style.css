@@ -1,0 +1,95 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-image: url('image.jpg');
+   background-repeat: no-repeat;
+  }
+  
+.inputBox{
+    border: none;
+    outline: none;
+    font-size: 15px;
+    width:100%;
+    background-color: transparent;
+}
+h1{
+  display: flex;
+ flex-direction: row;
+ align-items: start;
+}
+hr{
+    
+    width:404px;
+    margin-bottom: 25px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh; /* Adjust the height as needed */
+  
+  }
+
+.submit{
+  
+    width: 389px;
+    height: 44px;
+   border-radius:9px;
+   border: none;
+   color:white;
+   background-color: rgb(124,210,215);
+   cursor: pointer;
+margin-left:10%;
+  width:80%;
+  font-size: 16px;
+}
+
+input::placeholder {
+    font-size: 14px; /* Set the desired font size */
+    color: #999; /* Set the desired color */
+  }
+
+h3{
+    color:#909090;
+    font-weight: 400;
+font-size:18px;
+
+
+}
+
+.Google{
+  display: flex;
+  flex-direction: row;
+    width:190px;
+height:45px;
+cursor: pointer;
+border-radius: 9px;
+border: 1px;
+   font: weight 400px;
+
+   gap:5px;
+}
+
+.createBtn{
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+
+}
+
+.success{
+    display: flex;
+    justify-content: center;
+    color:#7CD2D7 ;
+    font-size: 18px;
+}
+.error-message{
+    color: rgb(238, 48, 105);
+    font-size: 18px;
+}
+.font{
+    margin-top: 10px;
+}
