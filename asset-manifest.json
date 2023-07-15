@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SignUpWithRJ/static/css/main.90caae07.css",
+    "main.js": "/SignUpWithRJ/static/js/main.95b4d8a8.js",
+    "static/media/image.jpg": "/SignUpWithRJ/static/media/image.3f2989998971d3695cf6.jpg",
+    "index.html": "/SignUpWithRJ/index.html",
+    "main.90caae07.css.map": "/SignUpWithRJ/static/css/main.90caae07.css.map",
+    "main.95b4d8a8.js.map": "/SignUpWithRJ/static/js/main.95b4d8a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90caae07.css",
+    "static/js/main.95b4d8a8.js"
+  ]
+}
